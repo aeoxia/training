@@ -1,1 +1,93 @@
-
+[
+{
+"id": 1,
+"name": "Philippines",
+"regions": [
+{
+"id": 1,
+"country_id": 1,
+"name": "Metro Manila",
+"provinces": [
+{
+"id": 1,
+"region_id": 1,
+"name": "Agusan Del Norte",
+"cities": [
+{
+"id": 10,
+"province_id": 1,
+"name": "Calamba"
+}
+]
+},
+{
+"id": 2,
+"region_id": 1,
+"name": "Basilan",
+"cities": [
+{
+"id": 1,
+"province_id": 2,
+"name": "Santa Rosa"
+},
+{
+"id": 2,
+"province_id": 2,
+"name": "Biñan"
+},
+{
+"id": 3,
+"province_id": 2,
+"name": "San Pedro"
+},
+{
+"id": 4,
+"province_id": 2,
+"name": "San Pablo"
+},
+{
+"id": 5,
+"province_id": 2,
+"name": "San Isidro"
+},
+{
+"id": 6,
+"province_id": 2,
+"name": "San Jose"
+},
+{
+"id": 8,
+"province_id": 2,
+"name": "San Lorenzo"
+}
+]
+}
+]
+},
+{
+"id": 2,
+"country_id": 1,
+"name": "North Luzon",
+"provinces": [
+{
+"id": 3,
+"region_id": 2,
+"name": "Laguna",
+"cities": [
+{
+"id": 7,
+"province_id": 3,
+"name": "Santa Juana"
+},
+{
+"id": 9,
+"province_id": 3,
+"name": "San Miguel"
+}
+]
+}
+]
+}
+]
+}
+]
